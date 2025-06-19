@@ -36,17 +36,9 @@ Here are some ideas to get you started:
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=boadt&show_icons=true&theme=default" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boadt&layout=compact" height="150"/>
 </div>
-
----
-
-### 📫 연락처
-
-- 📧 Email: your_email@example.com
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🌐 Blog: [https://your-blog.com](https://your-blog.com)
 
 ---
 
