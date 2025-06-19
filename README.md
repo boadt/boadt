@@ -16,17 +16,43 @@ Here are some ideas to get you started:
 -->
 
 ---
-<table>
+<h1 align="center">👋 안녕하세요, 건희입니다!</h1>
 
+<p align="center">
+  🌱 정보보안, LLM, 프라이버시 보호에 관심이 많습니다.<br>
+  🛡️ 가명처리 도구 제작과 웹 보안 실습 프로젝트 진행 중입니다.<br>
+  🧑‍💻 Python, Flask, Pandas, HuggingFace, LangChain 등을 주로 사용합니다.<br>
+</p>
 
-      <h1>🚀 Study-Notes</h1>
-      <p>뭔가요 이게</p>
-      <p>
-        <a href="#quick-start">바로 실행하기</a> •
-        <a href="#curriculum">커리큘럼</a> •
-        <a href="#roadmap">로드맵</a>
-      </p>
+---
 
-</table>
+### 🔧 사용 기술 스택
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FCC624?style=flat&logo=huggingface&logoColor=black"/>
+</div>
 
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" height="150"/>
+</div>
+
+---
+
+### 📫 연락처
+
+- 📧 Email: your_email@example.com
+- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+- 🌐 Blog: [https://your-blog.com](https://your-blog.com)
+
+---
+
+<p align="center">감사합니다! 🙌</p>
