@@ -33,8 +33,5 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-![GitHub last commit](https://img.shields.io/github/last-commit/boadt/study-notes?style=flat-square)
-![License](https://img.shields.io/github/license/boadt/study-notes?style=flat-square)
-![Stars](https://img.shields.io/github/stars/boadt/study-notes?style=social)
-
+![LLM badge](https://img.shields.io/badge/Study__Notes-LLM-blue?style=flat-square)
 
