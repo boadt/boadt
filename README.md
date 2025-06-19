@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h1 align="center">안녕하세요</h1>
 
 <p align="center">
-  🌱 정보보안, LLM, 프라이버시 보호에 관심이 많습니다.<br>
+  🌱 정보보안, AI, 개인정보보호에 관심이 많습니다.<br>
 
 </p>
 
