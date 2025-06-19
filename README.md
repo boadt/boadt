@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ---
-<h1 align="center">👋 안녕하세요, 건희입니다!</h1>
+<h1 align="center">안녕하세요</h1>
 
 <p align="center">
   🌱 정보보안, LLM, 프라이버시 보호에 관심이 많습니다.<br>
