@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ---
 <table>
-  <tr>
-    <td width="70%">
+
+
       <h1>🚀 Study-Notes</h1>
       <p>뭔가요 이게</p>
       <p>
@@ -26,12 +26,7 @@ Here are some ideas to get you started:
         <a href="#curriculum">커리큘럼</a> •
         <a href="#roadmap">로드맵</a>
       </p>
-    </td>
-    <td align="center">
-     <img src=\"https://img.shields.io/badge/Study_Notes-LLM-blue.svg\"/>
-    </td>
-  </tr>
+
 </table>
 
-![LLM badge](https://img.shields.io/badge/Study__Notes-LLM-blue?style=flat-square)
 
