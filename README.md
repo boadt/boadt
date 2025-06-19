@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ---
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={https://github.com/boadt})](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=boadt)](https://solved.ac/https://github.com/boadt/)
