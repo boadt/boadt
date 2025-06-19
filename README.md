@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   🌱 정보보안, LLM, 프라이버시 보호에 관심이 많습니다.<br>
-  🛡️ 가명처리 도구 제작과 웹 보안 실습 프로젝트 진행 중입니다.<br>
-  🧑‍💻 Python, Flask, Pandas, HuggingFace, LangChain 등을 주로 사용합니다.<br>
+
 </p>
 
 ---
