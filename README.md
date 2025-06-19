@@ -28,7 +28,7 @@ Here are some ideas to get you started:
       </p>
     </td>
     <td align="center">
-      <img src="docs/img/logo.svg" width="120"/>
+     <img src=\"https://img.shields.io/badge/Study_Notes-LLM-blue.svg\"/>
     </td>
   </tr>
 </table>
