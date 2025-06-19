@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <tr>
     <td width="70%">
       <h1>🚀 Study-Notes</h1>
-      <p>AI · Backend · DevOps 를 정리한 개인 학습 레포입니다.</p>
+      <p>뭔가요 이게</p>
       <p>
         <a href="#quick-start">바로 실행하기</a> •
         <a href="#curriculum">커리큘럼</a> •
@@ -37,9 +37,4 @@ Here are some ideas to get you started:
 ![License](https://img.shields.io/github/license/boadt/study-notes?style=flat-square)
 ![Stars](https://img.shields.io/github/stars/boadt/study-notes?style=social)
 
-## ✨ Quick Start
-```bash
-git clone https://github.com/boadt/study-notes
-cd ai/00-basic-llm
-poetry install && poetry shell
-python demo.py
+
